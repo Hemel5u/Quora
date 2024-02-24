@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "358719377180",
+    "firebase_url": "https://quorasocial-51ff1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quorasocial-51ff1",
+    "storage_bucket": "quorasocial-51ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358719377180:android:ab630db98ec1a60583f4d9",
+        "android_client_info": {
+          "package_name": "com.example.socailmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwXwjPMH5vwZ4TkIxaIqOtlpTPuCFCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
